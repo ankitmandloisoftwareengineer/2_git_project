@@ -1,0 +1,2 @@
+immedialty invoked function expression is the peattern it is just contain two breces
+it contain two function is defined and executed immedialty .iffe is opetn used with varicble to avoid golba variable pollution
